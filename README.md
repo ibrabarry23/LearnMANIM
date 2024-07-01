@@ -12,7 +12,6 @@ Questo progetto è stato creato per imparare ad utilizzare [Manim](https://www.m
 Per iniziare, clona questo repository e installa le dipendenze necessarie:
 
 ```bash
-[git clone https://github.com/ibrabarry23/progetto-manim.git
-](https://github.com/ibrabarry23/LearnMANIM.git)
+git clone https://github.com/ibrabarry23/progetto-manim.git
 cd progetto-manim
 pip install -r requirements.txt
