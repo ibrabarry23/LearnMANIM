@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/ibrahimatelybarry/Desktop/LearnMANIM/tutorial/media/videos/main/1080p60/partial_movie_files/FibonacciScene/3977891868_2637524698_223132457.mp4'
+file 'file:/Users/ibrahimatelybarry/Desktop/LearnMANIM/tutorial/media/videos/main/1080p60/partial_movie_files/FibonacciScene/2852726489_944832384_3386958287.mp4'
+file 'file:/Users/ibrahimatelybarry/Desktop/LearnMANIM/tutorial/media/videos/main/1080p60/partial_movie_files/FibonacciScene/2852726489_2475379470_2708991350.mp4'
