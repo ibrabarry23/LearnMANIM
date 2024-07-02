@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "/Users/ibrahimatelybarry/Desktop/LearnMANIM/progetto-manim/.venv/bin/python",
+    "python.analysis.extraPaths": [
+        "/Users/ibrahimatelybarry/Desktop/LearnMANIM/progetto-manim/.venv/lib/python3.12/site-packages"
+    ]
+}
